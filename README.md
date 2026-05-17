@@ -1,4 +1,3 @@
-# Email-Spam-Detection-with-NLP-and-Machine-Learning
 # 📬 Email Spam Classifier (NLP + Machine Learning)
 
 A machine learning project that classifies email messages as **Spam** or **Ham (Not Spam)** using Natural Language Processing techniques.
